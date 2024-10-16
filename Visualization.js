@@ -70,7 +70,7 @@ function updateMap1Spec() {
     // Example: Update map1 specification based on currentYear and currentState
     mapSpecs['map1'] = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "background":"#fff8f9",
+        "background":"#ebe8fc",
         "title": "Ratio of female to male labor force participation rate throughout the years",
         "width": 800,
         "height": 400,
@@ -162,7 +162,7 @@ function updateMap2Spec() {
     // Update map2 specification
     mapSpecs['map2'] = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "background":"#fff8f9",
+        "background":"#ebe8fc",
         "width": 700,
         "height": 400,
         "description": "A bar chart with highlighting on hover and selecting on click, with field selectors.",
@@ -294,7 +294,7 @@ function updateMap3Spec() {
     // Update map3 specification
     mapSpecs['map3'] = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "background":"#fff8f9",
+        "background":"#ebe8fc",
         "width": 700,
         "height": 400,
         "description": "Female labor force participation rate in Afghanistan over time.",
@@ -404,7 +404,7 @@ function updateMap4Spec() {
     // Update map4 specification
     mapSpecs['map4'] = {
         "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "background":"#fff8f9",
+        "background":"#ebe8fc",
         "width": 700,
         "height": 400,
         "description": "Pie Chart with percentage_tooltip",
