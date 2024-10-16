@@ -140,7 +140,7 @@ function updateMap1Spec() {
                 "title": "Ratio of female to male labor force participation rate (%)",
                 "scale": {
                   "type": "linear",
-                  "scheme": "reds"
+                  "scheme": "Purples"
                 }
               },
               "tooltip": [
@@ -245,7 +245,7 @@ function updateMap2Spec() {
         ],
         "mark": {
             "type": "bar",
-            "fill": "#fa2a55",
+            "fill": "#ebe8fc",
             "stroke": "black",
             "cursor": "pointer"
         },
