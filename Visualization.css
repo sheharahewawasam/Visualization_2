@@ -72,3 +72,8 @@ input[type="range"] {
     border-radius: 5px;  /* Rounded corners */
     z-index: 1000;       /* High z-index to ensure it stays on top */
   }
+#align_left {
+    text-align: left; /* Left align specific div */
+    width: 100%; /* Set a specific width to the div */
+    margin: auto; /* Center the div block as a whole */
+  }
